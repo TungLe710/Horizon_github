@@ -268,7 +268,7 @@
                   "settings": {
                     "heading": "Item Detail",
                     "open_by_default": true,
-                    "icon": "none",
+                    "icon": "check_box",
                     "width": 20
                   },
                   "blocks": {
@@ -307,7 +307,7 @@
                   "settings": {
                     "heading": "Shipping & Returns",
                     "open_by_default": false,
-                    "icon": "none",
+                    "icon": "plane",
                     "width": 20
                   },
                   "blocks": {
@@ -344,9 +344,9 @@
                 "accordion_row_YtELA7": {
                   "type": "_accordion-row",
                   "settings": {
-                    "heading": "Manufacturing",
+                    "heading": "Personalization",
                     "open_by_default": false,
-                    "icon": "none",
+                    "icon": "silhouette",
                     "width": 20
                   },
                   "blocks": {
