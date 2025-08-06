@@ -353,7 +353,7 @@
                     "text_YAt6db": {
                       "type": "text",
                       "settings": {
-                        "text": "<h5><strong>Important Personalization Notice</strong></h5><p>To ensure your custom<br/>item is created exactly as you envision, please carefully review all<br/>personalized details (such as names, dates, or design selections) before<br/>placing your order.</p><ul><li>Double-check spelling, capitalization, and chosen options.</li><li>Personalized products are made-to-order and cannot be modified or returned once production begins, unless they arrive damaged or incorrect due to our error.</li><li>We use the exact text you provide, so accuracy is essential.</li></ul><p>Your attention to these details helps us deliver a beautiful, meaningful item made just for you.</p>",
+                        "text": "<h5><strong>Important Personalization Notice</strong></h5><p>To ensure your custom item is created exactly as you envision, please carefully review all personalized details (such as names, dates, or design selections) before placing your order.</p><ul><li>Double-check spelling, capitalization, and chosen options.</li><li>Personalized products are made-to-order and cannot be modified or returned once production begins, unless they arrive damaged or incorrect due to our error.</li><li>We use the exact text you provide, so accuracy is essential.</li></ul><p>Your attention to these details helps us deliver a beautiful, meaningful item made just for you.</p>",
                         "width": "100%",
                         "max_width": "normal",
                         "alignment": "left",
