@@ -314,7 +314,7 @@
                     "text_pY66Fh": {
                       "type": "text",
                       "settings": {
-                        "text": "<h5>Processing & Shipping</h5><ul><li><strong>Processing Time</strong> : 1–3 business days</li><li><strong>Shipping Time:<br/></strong>+ United States: 6–9 business days<br/>+ International: 10–15 business days</li><li><strong>Tracking provided</strong> once shipped</li><li>Ships from our warehouse in Hanoi, Vietnam<br/><br/><br/><strong><br/><br/><br/><br/></strong></li></ul>",
+                        "text": "<h5>Processing & Shipping</h5><ul><li><strong>Processing Time</strong> : 1–3 business days</li><li><strong>Shipping Time:<br/></strong>+ United States: 6–9 business days<br/>+ International: 10–15 business days</li><li><strong>Tracking provided</strong> once shipped</li><li>Ships from our warehouse in Hanoi, Vietnam</li></ul>",
                         "width": "100%",
                         "max_width": "normal",
                         "alignment": "left",
