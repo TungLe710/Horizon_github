@@ -532,7 +532,7 @@
       ],
       "name": "t:names.product_recommendations",
       "settings": {
-        "product": "{{ closest.product }}",
+        "product": "personalized-flower-vase-with-name-birth-month-floral-ceramic-pitcher-custom-gift-for-her-mom-grandma",
         "recommendation_type": "related",
         "layout_type": "grid",
         "carousel_on_mobile": false,
